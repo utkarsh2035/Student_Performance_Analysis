@@ -80,7 +80,7 @@ To enable quick and impactful decisions through interactive visuals that:
 
 | Dashboard Preview |
 |-------------------|
-| ![Dashboard Preview]((https://github.com/utkarsh2035/Student_Performance_Analysis/blob/main/Student_Performace_Analysis.png)) |
+| ![Dashboard Preview](https://github.com/utkarsh2035/Student_Performance_Analysis/blob/main/Student_Performace_Analysis.png) |
 
 ---
 
