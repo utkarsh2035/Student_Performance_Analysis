@@ -56,7 +56,7 @@ To enable quick and impactful decisions through interactive visuals that:
 
 | Screenshot |
 |------------|
-| ![Dashboard Preview]((https://github.com/utkarsh2035/Student_Performance_Analysis/blob/main/Student_Performace_Analysis.png)) |
+| ![Dashboard Preview](https://github.com/utkarsh2035/Student_Performance_Analysis/blob/main/Student_Performace_Analysis.png) |
 
 - **Gender Filter** — Dynamic slicer to compare male/female outcomes  
 - **KPI Cards** — Quick view of average math, reading, and writing scores  
