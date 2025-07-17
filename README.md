@@ -56,7 +56,7 @@ To enable quick and impactful decisions through interactive visuals that:
 
 | Screenshot |
 |------------|
-| ![Dashboard Preview](./student-performance-dashboard.png) |
+| ![Dashboard Preview]([./student-performance-dashboard.png](https://github.com/utkarsh2035/Student_Performance_Analysis/blob/main/Student_Performace_Analysis.png)) |
 
 - **Gender Filter** — Dynamic slicer to compare male/female outcomes  
 - **KPI Cards** — Quick view of average math, reading, and writing scores  
@@ -80,7 +80,7 @@ To enable quick and impactful decisions through interactive visuals that:
 
 | Dashboard Preview |
 |-------------------|
-| ![Dashboard Preview](./student-performance-dashboard.png) |
+| ![Dashboard Preview]([./student-performance-dashboard.png](https://github.com/utkarsh2035/Student_Performance_Analysis/blob/main/Student_Performace_Analysis.png)) |
 
 ---
 
@@ -91,12 +91,6 @@ This dashboard is a foundational step toward educational insight generation. Fut
 - Predictive modeling for student risk profiling  
 - Performance trend analysis over semesters  
 - More advanced DAX logic for percentile bands and clustering  
-
----
-
-## 🧩 Repository
-
-🔗 [GitHub Link](https://github.com/utkarsh2035) – Power BI `.pbix` file and visuals included
 
 ---
 
